@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="u05002@user05002.s5.da.labs.fujitsu.com:22">
+    <serverData>
+      <paths name="fjda@fcci1.ece.utoronto.ca:10422">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="u05002@user05002.s5.da.labs.fujitsu.com:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/s5/u05002/AnomalyDetection/" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
